@@ -2,7 +2,7 @@ fn main() {
     let fib_number = 12;
     let result = fibonacci(fib_number); // time complexity = O(n)
 
-    println!("{result}")
+    println!("{result}");
 }
 
 fn fibonacci(n: u64) -> u64 {
